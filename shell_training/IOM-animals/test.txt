@@ -1,0 +1,210 @@
+ triturus cristatus
+ triturus vulgaris
+ triturus helveticus
+ bufo bufo
+ rana temporaria
+ gavia stellata
+ gavia arctica
+ gavia immer
+ tachybaptus ruficollis
+ podiceps auritus
+ hydrobates pelagicus
+ puffinus puffinus
+ fulmarus glacialis
+ morus bassanus
+ phalacrocorax carbo
+ phalacrocorax aristotelis
+ botaurus stellaris
+ ardea cinerea
+ cygnus olor
+ cygnus cygnus
+ anser brachyrynchus
+ anser anser
+ branta canadensis
+ branta bernicla
+ tadorna tadorna
+ anas penelope
+ anas strepera
+ anas crecca
+ anus platyrhynchos
+ anas clypeata
+ aythya ferina
+ aythya fuligula
+ aythya marila
+ somateria mollissima
+ clangula hyemalis
+ melanitta nigra
+ melanitta fusca
+ bucephala clangula
+ mergus serrator
+ mergus merganser
+ oxyura jamaicensis
+ accipiter nisus
+ circus cyaneus
+ haliaeetus albicilla
+ falco tinnunculus
+ falco columbarius
+ falco peregrinus
+ alectoris rufa
+ perdix perdix
+ coturnix coturnix
+ tetrao tetrix†
+ lagopus lagopus scoticus
+ phasianus colchicus
+ rallus aquaticus
+ crex crex
+ fulica atra
+ haematopus ostralegus
+ numenius arguata
+ scolopax rusticola
+ gallinago gallinago
+ larsus argentatus
+ larsus marinus
+ fratercula arctica
+ alca torda
+ columba palumbus
+ streptopelia decaocto
+ tyto alba
+ hirundo rustica
+ motacilla cinerea
+ motacilla alba yarrellii
+ troglodytes troglodytes
+ prunella modularis
+ erithacus rubecula
+ turdus merula
+ turdus philomelos
+ phylloscopus trochilus
+ regulus regulus
+ parus caeruleus
+ parus major
+ parus ater
+ aegithalos caudatus
+ sturnus vulgaris
+ pica pica
+ corvus monedula
+ corvus corax
+ corvus corax
+ corvus cornix
+ phyrocorrax phyrocorrax
+ corvus frugilegus
+ passer domesticus
+ fringilla coelebs
+ carduelis chloris
+ carduelis chloris
+ miliaria calandra
+chrysops vulgaris
+chrysops ventralis
+hemerobius lutescens
+micromus veriegatus
+limnophilus auricula
+limnophilus flavicornis
+limnophilus elegans
+ aeshna juncea
+ aeshna grandis
+ aeshna mixta
+ sympetrum striolatum
+ sympetrum danae
+ sympetrum fonscolombi
+ sympetrum sanguineum
+ libellula quadrimaculata
+ cordulia aenea
+ orthetrum coerulescens
+ anax imperator
+ enallagma cyathigerum
+ ischnura elegans
+ cordulegaster boltonii
+ pyrrhosoma nymphula
+ lestes sponsa
+ pholidoptera griseoaptera
+ leptophyes punctatissima
+ stenobothrus stigmaticus
+ omocestus viridulus
+ forficula auricularia
+bibio marci
+bibio reticulatus
+bombylius canescens
+ heath bee-fly
+calliphora vomitoria
+cheilosia rosarum
+ manx robber fly
+agrothereutes abbreviata
+andrena clarkella
+andrena denticulata
+andrena labilis
+bombus agrorum
+bombus lucorum
+bombus muscorum
+crabo cribarius
+dolerus liogaster
+dolerus cothurnatus
+halictus calceatus
+lissonata bellator
+myrmica ruginodis
+parabates cristatus
+pontania viminalis
+psythyrus campestris
+spilichneumon occisorius
+trichoma enecator
+ pieris brassicae
+ pieris rapae
+ pieris napi
+ anthocharis cardamines
+ lycaena phlaeas
+ polyommatus icarus
+ celastrina argiolus
+ hipparchia semele
+ pararge aegeria[1]
+ maniola jurtina
+ lasiommata megera
+ coenonympha pamphilus
+ argynnis aglaja
+ vanessa atalanta
+ aglais urticae
+ inachis io
+ polygonia c-album[1]
+ cynthia cardui
+ aphantopus hyperantus†
+ tyria jacobaeae
+ biston betularia
+ xanthorhoe fluctuata
+ xanthorhoe montanata montanata
+ deilephila elpenor
+ acherontia atropos
+ cerura vinula
+ autographa gamma f. gammina
+ diarsia mendica mendica
+acanthosoma haemorrhoidale (hawthorn shield bug)
+capsus meriopterus (a broom myrid)
+corixa praeusta (a water boatman)
+herris lacustris (common pondskater)
+hydrometra stagnorum (water-measurer)
+myzus cerasi
+peizodorus lituratus
+plagiognathus arbustorum
+sybsigara fossarum
+subsigara scotti
+velua currens
+ pipistrellus pipistrellus
+ myotis mystacinus
+ myotis nattereri
+ myotis daubentonii
+ nyctalus leisleri
+ pipistrellus pygmaeus
+ plecotus auritus
+ lepus timidus
+ lepus europaeus
+ oryctolagus cuniculus
+ erinaceus europaeus
+ sorex minutus
+ apodemus sylvaticus
+ mus domesticus
+ rattus norvegicus
+ mustela erminea hibernica
+ mustela furo
+ megaloceros giganteus
+ halichoerus grypus
+ phoca vitulina
+ homo sapiens
+ capra hircus
+ macropus rufogriseus
+ zootoca vivipara
