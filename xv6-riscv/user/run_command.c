@@ -1,17 +1,65 @@
 #include "kernel/types.h"
+#include "kernel/param.h"
 #include "user/user.h"
 
-int main(void)
+void execute_line(char** args) 
 {
-    char input[100];
-    while (1)
+
+  // Use fork() to create a child process. Determine if the process
+  // is a parent or a child, and run exec() if it is a child, and
+  // run wait() if it is a parent.
+  // For guidance, the model solution has 9 lines of code.
+  int processID = fork();
+  if (processID < 0) {
+    fprintf(2, "fork failed\n");
+    exit(1);
+  }
+  if (processID == 0) {
+    exec(args[0], args);
+    fprintf(2, "exec error\n");
+    exit(1);
+  }
+  wait(0);
+}
+
+
+int main(int argc, char *argv[]) 
+{
+
+
+  // Two pointers: to a command and to a null terminator.
+  char *args[2] = {0};
+  // Fixed-size storage for reading in a line of input, and a pointer
+  // to a particular character in this storage.
+  char buf[512], *b;
+  // Point b to the first character in the line.
+  b = buf;
+  // Read characters from the standard input. When we find '\n' that
+  // means one line has terminated - execute the command.
+  fprintf(2, "Please enter command and press enter (type 'q' to exit):\n");
+  while (read(0, b, 1) > 0) 
+  {
+    // Check the current character in b. If it is not special, move the pointer
+    // b to the next character and continue reading. If the command string has
+    // been fully entered ('\n' is found in b), execute the command by calling
+    // execute_line().
+    // For guidance, the model solution has 10 lines of code in this loop.
+    if (*b == '\n')
     {
-        fprintf(2, "Please enter command and press enter (type 'q' to exit):");
-        scanf("%s", input);
-        if(strcmp(input,"q") == 0)
-        {
-            break;
-        }
+      *b = 0;
+      args[0] = buf;
+      if (strcmp(buf, "q") == 0) 
+      {
+        exit(0);
+      }
+      execute_line(args);
+      fprintf(2, "Please enter command and press enter (type 'q' to exit):\n");
+      b = buf;
+    } 
+    else 
+    {
+      b++;
     }
-    exit(0);
+  }
+  exit(0);
 }
