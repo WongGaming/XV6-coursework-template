@@ -150,7 +150,8 @@ UPROGS=\
 	$U/_sleep\
 	$U/_uptime\
 	$U/_run_command\
-	$U/_pingpong0
+	$U/_pingpong0\
+	$U/_run_commands
 
 fs.img: mkfs/mkfs README $(UPROGS)
 	mkfs/mkfs fs.img README $(UPROGS)
